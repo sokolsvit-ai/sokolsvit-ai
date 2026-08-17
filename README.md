@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привіт! Я Влад (sokolsvit-ai) 🚀
 
-<!--
-**sokolsvit-ai/sokolsvit-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я розробник, який спеціалізується на автоматизації бізнес-процесів та створенні інтелектуальних систем.
 
-Here are some ideas to get you started:
+## 🛠 Мої навички
+- **Automation:** n8n, Google Apps Script, Python, JavaScript.
+- **AI & Integrations:** Робота з Gemini API, створення Telegram-ботів.
+- **Development:** CRM-системи, веб-скрейпінг, автоматизація збору даних.
+- **Tools:** Docker, PostgreSQL, Linux/VPS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Що я пропоную
+Маю готові архітектури для:
+- Автоматичного трекінгу цін та моніторингу черг.
+- Генерації контенту та супровідних листів за допомогою AI.
+- CRM-систем для малого бізнесу.
+
+📩 **Зв'язок:** [Мій Telegram-канал](https://t.me/vladiksonchik)
+
+*Відкритий до співпраці та цікавих проєктів!*
