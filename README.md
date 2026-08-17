@@ -1,19 +1,19 @@
-# Привіт! Я Влад (sokolsvit-ai) 🚀
+# Hi there, I'm Vlad (sokolsvit-ai) 🚀
 
-Я розробник, який спеціалізується на автоматизації бізнес-процесів та створенні інтелектуальних систем.
+I am a developer specializing in business process automation and intelligent systems.
 
-## 🛠 Мої навички
+## 🛠 Skills & Tech Stack
 - **Automation:** n8n, Google Apps Script, Python, JavaScript.
-- **AI & Integrations:** Робота з Gemini API, створення Telegram-ботів.
-- **Development:** CRM-системи, веб-скрейпінг, автоматизація збору даних.
+- **AI & Integrations:** Gemini API, Telegram bots development.
+- **Development:** CRM systems, web scraping, data collection automation.
 - **Tools:** Docker, PostgreSQL, Linux/VPS.
 
-## 🤖 Що я пропоную
-Маю готові архітектури для:
-- Автоматичного трекінгу цін та моніторингу черг.
-- Генерації контенту та супровідних листів за допомогою AI.
-- CRM-систем для малого бізнесу.
+## 🤖 What I Offer
+Ready-to-use architectures for:
+- Automated price tracking and queue monitoring.
+- AI-powered content generation and cover letters.
+- Custom CRM solutions for small businesses.
 
-📩 **Зв'язок:** [Мій Telegram-канал](https://t.me/vladiksonchik)
+📩 **Contact:** [My Telegram Channel: Workflow & Scripts ](https://t.me/vladiksonchik)
 
-*Відкритий до співпраці та цікавих проєктів!*
+*Open to collaboration and interesting projects!*
